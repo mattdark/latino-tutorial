@@ -18,7 +18,7 @@ Latino ([lenguaje-latino.org](http://lenguaje-latino.org)) es un lenguaje de pro
 
 ## ¿Por qué otro lenguaje?
 
-Soy profesor universitario desde hace poco más de un año, imparto materias de programación. Algunos de los lenguajes de programación que enseño a mis alumnos son C/C++, Python y tecnologías web (HTML5, CSS3, JavaScript). Las palabras reservadas, métodos o funciones de los lenguajes de programación que se enseñan en las universidades están en inglés. ¿Por qué no aprender a programar en nuestro idioma (español)? Si sabes leer y escribir, sabes programr, es lo que dicta el lema de Latino, un lenguaje de programación con sintaxis en español.
+Soy profesor universitario desde hace poco más de un año, imparto materias de programación. Algunos de los lenguajes de programación que enseño a mis alumnos son C/C++, Python y tecnologías web (HTML5, CSS3, JavaScript). Las palabras reservadas, métodos o funciones de los lenguajes de programación que se enseñan en las universidades están en inglés. ¿Por qué no aprender a programar en nuestro idioma (español)? Si sabes leer y escribir, sabes programar, es lo que dicta el lema de Latino, un lenguaje de programación con sintaxis en español.
 
 ## ¿Por qué este blog?
 
