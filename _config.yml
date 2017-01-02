@@ -32,7 +32,7 @@ links:
   - title: blog
     url: /latino-tutorial/posts
   - title: acerca de
-    url: /about
+    url: /latino-tutorial/about
 # projects in header index
 projects:
 # exclude my node related stuff
