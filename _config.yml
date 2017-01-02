@@ -2,7 +2,7 @@
 title: Tutorial de Latino
 description: "Un blog sobre el lenguaje de programación Latino"
 baseurl: "/latino-tutorial" # for test: remove string '/space-jekyll-templa' to ''
-url: "https://mariog.xyz" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
+url: "http://mariog.xyz" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
 # User settings
 username: Tutorial de Latino
 user_title: 
