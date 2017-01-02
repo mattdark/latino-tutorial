@@ -14,7 +14,7 @@ serie: learn
 
 ## ¿Qué es Latino?
 
-Latino es un lenguaje de programación interpretado con sintaxis en español.
+Latino (lenguaje-latino.org) es un lenguaje de programación interpretado con sintaxis en español.
 
 ## ¿Por qué otro lenguaje?
 
