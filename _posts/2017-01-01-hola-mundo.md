@@ -26,7 +26,7 @@ He sido usuario de Software Libre por los últimos diez años. Durante este tiem
 
 ## Hola mundo
 
-{% highlight python %}
+{% highlight latino %}
 escribir("¡Hola mundo!")
 imprimir("¡Feliz año nuevo!")
 {% endhighlight %}
