@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "¡Hola mundo!"
-image: ''
+image: '/assets/img/latino-banner.png'
 date:   2017-01-01 20:47:00
 tags:
 - latino
