@@ -11,6 +11,7 @@ categories:
 serie: learn
 ---
 
+<img src="/latino-tutorial/assets/img/latino.jpg" alt="Latino banner">
 
 ## ¿Qué es Latino?
 
