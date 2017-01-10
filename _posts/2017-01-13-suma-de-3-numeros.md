@@ -14,7 +14,7 @@ serie: learn
 
 El código en Latino que permite realizar la suma de tres números es el siguiente:
 
-{% highlight python linenos %}
+{% highlight python %}
 # Suma de tres numeros
 escribir("Introduce un numero")
 a = leer()
