@@ -2,8 +2,8 @@
 layout: post
 title:  "Suma de tres números"
 image: '/assets/img/latino-banner.png'
-date:   2017-01-13 10:00:00
-published: false
+date:   2017-01-16 16:11:00
+published: true
 tags:
 - latino
 description: ''
@@ -14,17 +14,7 @@ serie: learn
 
 El código en Latino que permite realizar la suma de tres números es el siguiente:
 
-{% highlight python %}
-# Suma de tres numeros
-escribir("Introduce un numero")
-a = leer()
-escribir("Introduce un numero")
-b = leer()
-escribir("Introduce un numero")
-c = leer()
-suma = a + b + c
-escribir("La suma es: " . suma)
-{% endhighlight %}
+<script src="https://gist.github.com/mattdark/8921db838922b1ee8f1de4925d114552.js"></script>
 
 ## Obtener un valor del usuario
 
@@ -33,23 +23,7 @@ Para pedir datos al usuario y que los instroduzca desde el teclado se usa la fun
 ## Comentarios
 En programación los comentarios son líneas de código que sirven para agregar información sobre el programa y así comprender que es lo que hace, por ejemplo, para que sirve una variable, que hace una función, etc. Además, los comentarios no se muestran cuando se ejecuta el programa. En Latino se pueden agregar comentarios como se muestra a continuación:
 
-{% highlight python %}
-# Este es un comentario de una línea
-{% endhighlight %}
-
-
-{% highlight python %}
-// Este es otro comentario de una línea
-{% endhighlight %}
-
-{% highlight python %}
- /*
- Esto es un comentario
- que tiene
- varias
- líneas
- */
-{% endhighlight %}
+<script src="https://gist.github.com/mattdark/55a280c684f052bdf9a2c88b0ca8a187.js"></script>
 
 ## Operación
 
