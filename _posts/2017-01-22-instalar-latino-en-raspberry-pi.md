@@ -2,7 +2,7 @@
 layout: post
 title:  "Instalar Latino en Raspberry Pi"
 image: ''
-date:   2017-01-22 00:00:00
+date:   2017-01-21 20:22:00
 tags:
 - latino
 description: ''
