@@ -17,7 +17,7 @@ En este post explicaré como instalar Latino en Ubuntu, si necesitas instalar en
 Antes de instalar Latino en Ubuntu, asegurate de tener instaladas todas las dependencias, para ello ejecuta el siguiente comando en la terminal:
 
 {% highlight bash %}
-sudo apt install git bison flex cmake gcc g++ libjansson-dev libcurl4-openssl-dev libhiredis-dev redis-server curl
+sudo apt install git bison flex cmake gcc g++ libjansson-dev libcurl4-openssl-dev libhiredis-dev redis-server curl libreadline-dev
 {% endhighlight %}
 
 Es probable que te muestre algún mensaje de error al intentar compilar, si fuera el caso instala también los siguientes paquetes:
@@ -52,3 +52,5 @@ latino>
 {% endhighlight %}
 
 Ahora puedes programar en Latino.
+
+**Actualización:** Nueva dependencia requerida --> libreadline-dev
